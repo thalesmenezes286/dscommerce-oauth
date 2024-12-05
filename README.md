@@ -1,5 +1,5 @@
 # DSCommerce-OAuth
-Projeto de autênticação utilizando OAuth2 no SpringBoot
+##Projeto de autênticação utilizando OAuth2 no SpringBoot
 
 Tabela de Conteúdo
 Sobre o projeto
